@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\mckenna\desktop\cs273\exam_2_cs723\exam2\dinnerparty.h(45): warning C4930: 'DinnerPartyTicket Dinner(DinnerParty *(__cdecl *)(void),std::string)': prototyped function not called (was a variable definition intended?)
+c:\users\mckenna\desktop\cs273\exam_2_cs723\exam2\birthdayparty.h(37): warning C4930: 'BirthdayPartyTicket Birthday(BirthdayParty *(__cdecl *)(void),std::string)': prototyped function not called (was a variable definition intended?)
+  DinnerPartyTicket.cpp
+c:\users\mckenna\desktop\cs273\exam_2_cs723\exam2\dinnerparty.h(45): warning C4930: 'DinnerPartyTicket Dinner(DinnerParty *(__cdecl *)(void),std::string)': prototyped function not called (was a variable definition intended?)
+  BirthdayPartyTicket.cpp
+c:\users\mckenna\desktop\cs273\exam_2_cs723\exam2\birthdayparty.h(37): warning C4930: 'BirthdayPartyTicket Birthday(BirthdayParty *(__cdecl *)(void),std::string)': prototyped function not called (was a variable definition intended?)
+  Generating Code...
+  CS273_Exam2.vcxproj -> C:\Users\Mckenna\Desktop\CS273\Exam_2_CS723\CS273_Exam2\Debug\CS273_Exam2.exe
+  CS273_Exam2.vcxproj -> C:\Users\Mckenna\Desktop\CS273\Exam_2_CS723\CS273_Exam2\Debug\CS273_Exam2.pdb (Full PDB)
