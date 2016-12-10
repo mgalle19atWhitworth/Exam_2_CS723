@@ -4,6 +4,17 @@
 *
 * @authors Everyone!
 */
+
+/*
+Dinner Party add, list, remove          20/30 -- add() won't work. After you add the new person, return new DinnerPartyTicket(front)
+BirthdayParty                           15/20 -- same issue as above
+BirthdayPartyTicket                     20/20
+PartyFactory::factory                   10/10
+Well-designed and commented code        20/20
+
+TOTAL                                   85/100
+*/
+
 #include <iostream>
 #include <string>
 #include "Party.h"
